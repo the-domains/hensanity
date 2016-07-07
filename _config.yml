@@ -1,0 +1,14 @@
+layout_spectrum: 0.5251598136965185
+typography_spectrum: 0.3922191890887916
+color:
+  brandStrength: 0.7252873117104173
+  lightness: 0.9200377087108791
+  saturation: 0.316745015559718
+  rhythmicContrast: 0.1103616594336927
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+name: Hensanity
